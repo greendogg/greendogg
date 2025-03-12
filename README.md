@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python 🐍
 - 💞️ I’m looking to collaborate on anything AI, Crypto, or Quantum Computing related
 - 📫 How to reach me via email at letsgoracecarbrandon@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him; Bit/Byte
 - ⚡ Fun fact: I'm . . . me.
 
 <!---
